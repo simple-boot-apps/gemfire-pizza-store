@@ -1,4 +1,5 @@
 # Example Spring Boot Application for VMware Tanzu GemFire For VMs
+> This sample app was copied initially from [pivotal-cf/PCC-Sample-App-PizzaStore](https://github.com/pivotal-cf/PCC-Sample-App-PizzaStore/tree/release/2.0). Specifically, release 2.0 that was designed to run with Tanzu GemFire 2.0
 
 This versioned example app for VMware Tanzu GemFire is
 a Spring Boot app that can be used with
