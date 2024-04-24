@@ -1,10 +1,9 @@
----
 applications:
-- name: cloudcache-pizza-store
-  path: target/PCC-Sample-App-PizzaStore-1.0.0-SNAPSHOT.jar
-  buildpacks:
-    - https://github.com/cloudfoundry/java-buildpack.git
-  random-route: true
-  services:
-#    - SERVICE_INSTANCE
-
+  - name: gemfire-pizza-store
+    memory: 1G
+    instances: 1
+    path: target/PCC-Sample-App-PizzaStore-1.0.0-SNAPSHOT.jar
+    buildpacks:
+      [ https://github.com/cloudfoundry/java-buildpack.git ]
+    services:
+    - pizza-cache
