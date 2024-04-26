@@ -11,7 +11,7 @@ that this app will work with.
 Check out and run the app from the branch that matches
 your Tanzu GemFire tile version.
 For example, if your Tanzu GemFire service instance is version 2.0,
-check out this repository's release/2.0 branch
+check out this repository's release/2.0 branch..
 
 The app uses [Spring Boot for Apache Geode](https://docs.spring.io/spring-boot-data-geode-build/1.4.0/reference/html5/)
 (SBDG) to talk to the Tanzu GemFire service instance.
