@@ -3,7 +3,5 @@ applications:
     memory: 1G
     instances: 1
     path: target/PCC-Sample-App-PizzaStore-1.0.0-SNAPSHOT.jar
-    buildpacks:
-      [ https://github.com/cloudfoundry/java-buildpack.git ]
     services:
     - pizza-cache
