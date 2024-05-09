@@ -16,6 +16,7 @@ package io.pivotal.cloudcache.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.data.gemfire.config.annotation.EnableLocator;
 //import org.springframework.geode.config.annotation.EnableClusterAware;
 
 
@@ -33,6 +34,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  */
 @SpringBootApplication
+//@EnableLocator
 //@EnableClusterAware
 public class CloudcachePizzaStoreApplication {
 

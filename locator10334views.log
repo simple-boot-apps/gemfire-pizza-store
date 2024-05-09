@@ -1,0 +1,16 @@
+
+[info 2024/05/09 11:17:27.814 CDT <main> tid=0x1] Log opened with new distributed system connection.  View[192.168.50.24(SpringBasedClientCacheApplication:59876)<ec><v0>:41000|0] members: [192.168.50.24(SpringBasedClientCacheApplication:59876)<ec><v0>:41000{lead}]
+
+[info 2024/05/09 11:21:05.893 CDT <main> tid=0x1] Log opened with new distributed system connection.  View[192.168.50.24(SpringBasedClientCacheApplication:65015)<ec><v0>:41000|0] members: [192.168.50.24(SpringBasedClientCacheApplication:65015)<ec><v0>:41000{lead}]
+
+[info 2024/05/09 13:31:24.945 CDT <main> tid=0x1] Log opened with new distributed system connection.  View[192.168.50.24(SpringBasedClientCacheApplication:28006)<ec><v0>:41000|0] members: [192.168.50.24(SpringBasedClientCacheApplication:28006)<ec><v0>:41000{lead}]
+
+[info 2024/05/09 13:32:32.659 CDT <main> tid=0x1] Log opened with new distributed system connection.  View[192.168.50.24(SpringBasedClientCacheApplication:29097)<ec><v0>:41000|0] members: [192.168.50.24(SpringBasedClientCacheApplication:29097)<ec><v0>:41000{lead}]
+
+[info 2024/05/09 13:33:49.323 CDT <main> tid=0x1] Log opened with new distributed system connection.  View[192.168.50.24(SpringBasedClientCacheApplication:30405)<ec><v0>:41000|0] members: [192.168.50.24(SpringBasedClientCacheApplication:30405)<ec><v0>:41000{lead}]
+
+[info 2024/05/09 13:37:33.935 CDT <main> tid=0x1] Log opened with new distributed system connection.  View[192.168.50.24(SpringBasedClientCacheApplication:32190)<ec><v0>:41000|0] members: [192.168.50.24(SpringBasedClientCacheApplication:32190)<ec><v0>:41000{lead}]
+
+[info 2024/05/09 13:38:28.769 CDT <main> tid=0x1] Log opened with new distributed system connection.  View[192.168.50.24(SpringBasedClientCacheApplication:32581)<ec><v0>:41000|0] members: [192.168.50.24(SpringBasedClientCacheApplication:32581)<ec><v0>:41000{lead}]
+
+[info 2024/05/09 13:47:18.413 CDT <main> tid=0x1] Log opened with new distributed system connection.  View[192.168.50.24(SpringBasedClientCacheApplication:37479)<ec><v0>:41000|0] members: [192.168.50.24(SpringBasedClientCacheApplication:37479)<ec><v0>:41000{lead}]
